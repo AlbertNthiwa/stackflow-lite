@@ -1,0 +1,33 @@
+body {
+    background-image: url('../img/background.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+h1{
+    color: aqua;
+}
+#redbutton {
+    background-color: red;
+    color: black;
+}
+#headerimage{
+    border-radius: 200px;
+    float: left;
+}
+#selfimage{
+    border-radius: 200px;
+    float: right;
+}
+#animation{
+    margin-left: 530px;
+}
+footer{
+    color: white;
+    text-align: center;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-image: url('../img/weather.gif');
+    background-size: contain;
+}
