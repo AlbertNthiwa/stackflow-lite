@@ -1,5 +1,7 @@
 # Weather App.
 
+# [![forthebadge](https://forthebadge.com/images/badges/powered-by-water.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com)
+
 ![](img/weather-icon.gif)
 
 ###### * (Unstable state: Under Development) *
