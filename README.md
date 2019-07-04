@@ -1,6 +1,6 @@
 # Weather App.
 
-![](img/ios-weather-app.gif)
+![](img/weather-icon.gif)
 
 ###### * (Unstable state: Under Development) *
 
