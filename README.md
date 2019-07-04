@@ -1,6 +1,6 @@
 # Weather App.
 
-# ![](img/os12-iphone-x-weather-app-raining-animation.gif)
+![](img/ios-weather-app.gif)
 
 ###### * (Unstable state: Under Development) *
 
