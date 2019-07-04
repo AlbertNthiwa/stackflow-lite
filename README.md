@@ -14,7 +14,7 @@
 
 
 
-
+![](os12-iphone-x-weather-app-raining-animation.gif)
 
 
 
