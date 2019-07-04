@@ -1,5 +1,7 @@
 # Weather App.
 
+# ![](os12-iphone-x-weather-app-raining-animation.gif)
+
 ###### * (Unstable state: Under Development) *
 
 ### Project setup:
@@ -13,14 +15,3 @@
 
 
 
-
-# ![](os12-iphone-x-weather-app-raining-animation.gif)
-
-
-
-  
-##### Link:
-* https://albertnthiwa.github.io/weather-app/
-
-#### License
-*MIT Licence*
