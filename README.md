@@ -13,6 +13,7 @@
 * Save all the packages in the file with $pip freeze > requirements.txt. ...
 * Pin all the package versions. ...
 * Add requirements.txt to the root directory of the project.
+  
 
 
 
